@@ -1,0 +1,7 @@
+# k-meanscan also be used to find the threshold
+# what it does is use the clustering approach , and  find differnt clusters
+# and then depending upon these clusters we can find the threshold , which will seperate
+# different classes.
+#  The difference is typically based on pixel color, intensity, 
+# texture, and location, or a weighted combination of these factors. 
+# K can be selected manually, randomly, or by a heuristic. 
